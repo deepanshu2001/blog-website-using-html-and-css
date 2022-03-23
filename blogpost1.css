@@ -1,0 +1,24 @@
+.post-img img{
+    position: relative;
+    top: 0px;
+    width: 85vw;
+    height: 304px;
+    left: 103px;
+} 
+
+h1{
+    margin: 0px 370px;
+}
+
+
+.footer{
+    position: absolute;
+    bottom: -678px;
+}
+.content{
+    margin: 146px auto;
+}
+
+.name{
+    font-weight:bold;
+}
